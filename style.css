@@ -1,0 +1,76 @@
+header {
+    font-size: 12px;
+    margin: 25px 10px;
+    color: rgb(170, 170, 170);
+}
+
+footer {
+    font-size: 15px;
+    margin: 0;
+    padding-top: 15px;
+    background-color: rgb(240, 240, 240);
+    color: rgb(170, 170, 170);
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    height: 50px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+}
+
+.text-button {
+    color: black;
+    text-decoration: none;
+    padding: .5em;
+}
+
+.text-button:hover {
+    text-decoration: underline;
+}
+
+.align-left {
+    float: left;
+}
+
+.align-right {
+    float: right;
+}
+
+#sign-in {
+    background-color: #0191e4;
+    color: #ffffff;
+    margin-top: -15px;
+    height: 30px;
+    width: 60px;
+    border: none;
+    border-radius: 1px;
+}
+
+section {
+    margin-top: 135px;
+    margin-left: 45%;
+}
+
+#search-bar {
+    width: 40%;
+    height: 25px;
+    margin-top: 4%;
+    margin-left: -7%;
+    border-radius: 15px;
+}
+
+.bottom-button {
+    margin-top: 5%;
+    margin-right: 2%;
+    padding: 10px;
+    border: none;
+    background-color: rgb(240, 240, 240);
+}
